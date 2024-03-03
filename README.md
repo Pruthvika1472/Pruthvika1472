@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Pruthvika S
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning "Java"
 - 💞️ I’m looking to collaborate on real-time projects
 - 📫 How to reach me .......linkedin.com/in/pruthvika-s-a808401b0
 
